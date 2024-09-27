@@ -4,13 +4,6 @@
  * Owen Colley
  * 5/4/24
  * 
- * add platforms
- * make jumps consistent hieights no matter fps
- * 
- * machine learning?
- * use sprite sheet on next project?
- * next game procedurally generated dungeon game or rpg in dungeon
- * vamp survs?
  */
 
 import java.awt.Graphics2D;
